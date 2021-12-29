@@ -1,4 +1,4 @@
-import os, shutil
+import shutil
 import tensorflow as tf
 import Data_loader
 import Unet_model
